@@ -1,0 +1,14 @@
+{
+	"name": "testazuredatafactory012",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cdee4435-f1e1-47ec-b0f9-cfa8fbc22b6b",
+		"tenantId": "620c623e-f8ff-4b53-82bd-11967c27dadd"
+	}
+}
